@@ -1,6 +1,6 @@
 - 👋 Hi, I’m tiger smell rose,the choose one.love reading ,vedio game,bloody crazy for football.
 - 🌱 I want learn natural language,python&java is my first choose
-- 💞️ I need a mental teacher
+- 💞️ I need a guide
 - 📫 anyone who have willness can add my wechat 
 
 <!---

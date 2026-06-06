@@ -1,7 +1,5 @@
 - 👋 Hi, I’m tiger smell rose,the choose one.love reading ,vedio game,bloody crazy for football.
-- 🌱 I want learn natural language,python&java is my first choose
-- 💞️ I need a mental teacher
-- 📫 anyone who have willness can add my wechat 
+- 🌱 I want learn natural language,python&java is my first choice
 
 <!---
 sworyang/sworyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
